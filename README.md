@@ -18,7 +18,7 @@ To get started with this project, you'll need to set up your environment and ins
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Harsh200112/PII_Detection.git
+   git lfs clone https://github.com/Harsh200112/PII_Detection.git
    cd PII_Detection
    ```
 
